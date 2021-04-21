@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes" ?>
+<tareas  xmlns:has="http://ji.ehu.es/has">
+  <tarea codigo= "HAS20-Test2">
+    <descripcion>Test 2 de la asignatura</descripcion>
+    <hestimadas>1</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea codigo="HAS20-Lab4">
+    <descripcion>Laboratorio sobre XML</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+<tarea codigo= "HAS20-Prueba21Abr">
+    <descripcion>Esto es una simple prueba</descripcion>
+    <hestimadas>8</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Ejercicio</tipotarea>
+  </tarea>
+</tareas>

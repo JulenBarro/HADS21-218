@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<tareas xmlns="http://ji.ehu.es/has">
+  <tarea codigo="ISO-Lab1">
+    <descripcion>Laboratorio de SWING</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+</tareas>

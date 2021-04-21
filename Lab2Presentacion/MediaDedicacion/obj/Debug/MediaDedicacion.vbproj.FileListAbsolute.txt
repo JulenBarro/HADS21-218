@@ -1,0 +1,11 @@
+C:\Users\X555\source\repos\Lab2Presentacion\MediaDedicacion\bin\MediaDedicacion.dll.config
+C:\Users\X555\source\repos\Lab2Presentacion\MediaDedicacion\bin\MediaDedicacion.dll
+C:\Users\X555\source\repos\Lab2Presentacion\MediaDedicacion\bin\MediaDedicacion.pdb
+C:\Users\X555\source\repos\Lab2Presentacion\MediaDedicacion\bin\MediaDedicacion.xml
+C:\Users\X555\source\repos\Lab2Presentacion\MediaDedicacion\obj\Debug\MediaDedicacion.vbprojAssemblyReference.cache
+C:\Users\X555\source\repos\Lab2Presentacion\MediaDedicacion\obj\Debug\MediaDedicacion.Resources.resources
+C:\Users\X555\source\repos\Lab2Presentacion\MediaDedicacion\obj\Debug\MediaDedicacion.vbproj.GenerateResource.cache
+C:\Users\X555\source\repos\Lab2Presentacion\MediaDedicacion\obj\Debug\MediaDedicacion.vbproj.CoreCompileInputs.cache
+C:\Users\X555\source\repos\Lab2Presentacion\MediaDedicacion\obj\Debug\MediaDedicacion.dll
+C:\Users\X555\source\repos\Lab2Presentacion\MediaDedicacion\obj\Debug\MediaDedicacion.xml
+C:\Users\X555\source\repos\Lab2Presentacion\MediaDedicacion\obj\Debug\MediaDedicacion.pdb
